@@ -1,10 +1,11 @@
-    @import'menu.css';
-    @import'titr.css';
-    @import'options.css';
-@import'contact_withus.css';
-@import'map.css';
-@import'contact_form.css';
-@import'footer_contact.css';
+
+
+@import'menu.css';
+@import'titr.css';
+@import'options.css';
+@import'about_us.css';
+@import'brand.css';
+@import'footer_about.css';
 
 @font-face {
   font-family: 'Shabnam';
@@ -16,5 +17,4 @@
 	font-family:"Shabnam";
 	font-size:13px;
 }
-
 

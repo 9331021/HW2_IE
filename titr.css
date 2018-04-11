@@ -1,0 +1,126 @@
+
+#top{
+	width:95%;
+	
+	margin-top:2%;
+}
+#login{
+	float:right;
+	margin-right:30px;
+	text-align:center;
+	height:20px;
+	width:7%;
+	color:#270000;
+	border:solid 1px;
+	border-color:black;
+    background-color: white
+	margin-right:1%;
+	text-decoration:none;
+	border-radius:10px;
+ 
+}
+
+#join{
+		float:right;
+	direction:rtl;
+   
+	text-align:center;
+	height:20px;
+	width:7%;
+	color:white;
+     background-color:grey;
+	border:solid 1px;
+	border-color:black;
+
+	margin-right:0.4%;
+	text-decoration:none;
+	border-radius:10px;
+}
+
+div.titr{
+    
+   font-size: 20px;
+    text-align: center;
+    font-family:sans-serif;
+    color: black;
+    margin-left:18%;
+     text-shadow : 1px 1px 1px gray ; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#join:hover {
+    background:blue;
+    color: white;
+}
+
+#login:hover {
+    background: white;
+    color: blue;
+}
+
+
+
+
+
+
+.search {
+  float:left;
+  width: 18%;
+  margin-left:8%;
+  margin-top:-22px;
+}
+.searchButton {
+  position: absolute;  
+  right: 90%;
+    top:4.3%;
+   
+  width: 20px;
+  height: 23px;
+  background-color:white;
+  text-align: center;
+  color: black;
+  cursor:pointer;
+  font-size: 12px;
+  border:solid 0px;
+    
+     border-radius:5px;
+  border-color:#172593;
+}
+
+.searchTerm {
+  direction:rtl;
+  float: right;
+  width: 100%;
+  height: 22px;
+  background-color:white;
+  border:thin;
+    border: solid 1px;
+    border-color: black;
+  border-radius:11px;
+  color: black;
+}
+
+.search:hover{
+    color: blue;
+}
+#bottom{
+	width:100%;
+	float:right;
+    
+    text-decoration:none;
+}
+
+.searchTerm:hover {
+   border-color: dodgerblue;
+}
