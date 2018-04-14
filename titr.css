@@ -8,7 +8,7 @@
 	float:right;
 	margin-right:30px;
 	text-align:center;
-	height:20px;
+	height:23px;
 	width:7%;
 	color:#270000;
 	border:solid 1px;
@@ -16,7 +16,7 @@
     background-color: white
 	margin-right:1%;
 	text-decoration:none;
-	border-radius:10px;
+	border-radius:50px;
  
 }
 
@@ -25,7 +25,7 @@
 	direction:rtl;
    
 	text-align:center;
-	height:20px;
+	height:23px;
 	width:7%;
 	color:white;
      background-color:grey;
@@ -34,17 +34,17 @@
 
 	margin-right:0.4%;
 	text-decoration:none;
-	border-radius:10px;
+	border-radius:50px;
 }
 
 div.titr{
     
-   font-size: 20px;
+   font-size: 25px;
     text-align: center;
     font-family:sans-serif;
     color: black;
-    margin-left:18%;
-     text-shadow : 1px 1px 1px gray ; 
+    margin-left:25%;
+     text-shadow : 3px 3px 3px gray ; 
 }
 
 
@@ -78,12 +78,12 @@ div.titr{
   float:left;
   width: 18%;
   margin-left:8%;
-  margin-top:-22px;
+  margin-top:-25px;
 }
 .searchButton {
   position: absolute;  
   right: 90%;
-    top:4.3%;
+    top:4.7%;
    
   width: 20px;
   height: 23px;
@@ -111,9 +111,46 @@ div.titr{
   color: black;
 }
 
-.search:hover{
-    color: blue;
+
+.searchButton:hover{
+color: rgb(59,85,230);    
 }
+.search*:hover{
+    color: rgb(59,85,230);;
+}
+.searchTerm:hover{
+    color: rgb(59,85,230);;
+}
+
+
+
+
+.fa-search:hover{
+    color: rgb(59,85,230);
+    
+}  
+
+.search:hover .searchButton > .fa-search{
+    color:rgb(59,85,230);
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #bottom{
 	width:100%;
 	float:right;
@@ -122,5 +159,5 @@ div.titr{
 }
 
 .searchTerm:hover {
-   border-color: dodgerblue;
+   border-color: rgb(59,85,230);;
 }

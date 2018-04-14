@@ -1,4 +1,29 @@
 
+#text_con{
+    width: 58%;
+    font-size: 16px;
+    float:right;
+    margin-top: 50px;
+    direction: rtl;
+
+    margin-right: 260px;
+    padding-left: 95px;
+    
+}
+#text_con1{
+    font-size:18px;
+}
+#text_con2{
+    font-size: 18%;
+}
+
+
+
+
+
+
+
+
 #table12{
     
    width:58%;
@@ -102,9 +127,10 @@ border: solid 1px balck;
 }
 #table16{
     border: solid 1px;
-    border-color: forestgreen;
+  border-color: white;
     width: 100%;
     height: 100%;
+     box-shadow: 10px 10px 5px gray;    
     
 }
 
@@ -133,7 +159,7 @@ border: solid 1px balck;
     
     width: 100%;
     height: 106%;    
-  
+
     
 }
 #r3{
@@ -158,39 +184,71 @@ border: solid 1px balck;
     color: dodgerblue;
 }
 #v3{
-    font-size: 19px;
+    font-size: 13px;
+    margin-right: 8%;
 }
 #w1{
-    width: 85%;
-    height: 30px;
+    width: 90%;
+    height: 35px;
     border-radius: 15px;
     font-size: 11px;
-    margin-right: 7%;
-    background-color:beige;
+    margin-right: 5%;
+    color: lightsteelblue;
+    background-color:#F1F7E9;
+}
+
+#divlan{
+    width: 80%;
+    height: 75%;
+    margin-right: 2px;
+    font-size: 10px;
+    margin-top: 2%;
+}
+#divlan2{
+margin-top: -16%;    
+}
+#divlan2 > .fa-angle-down
+{
+    font-size:15px;
+color: rgb(59,85,230);
+    margin-right: 85%;
 }
 #d44{
+  
    
     vertical-align:top;
   direction: rtl;
     font-size: 15px;
     color: dodgerblue;
+ border: solid 1px;
+     margin-right: 85%;
+    border-color: white;
+    border-bottom-color: gainsboro;
+
 }
 
 #w2{
-    width: 85%;
-    height: 30px;
+    width: 88%;
+    height: 29px;
     border-radius: 15px;
     font-size: 11px;
-    margin-right: 7%;
+    margin-right: 5%;
     background-color: beige;
+     color: lightsteelblue;
+    background-color:#F1F7E9;
 }
 
 
+#v4{
+    margin-right: 8%;
+   
+}
 
 
 #div_5{
+   
     border: solid 1px;
-    border-top-color: black;
+    border-top-color: darkslategray;
 }
 
 
@@ -203,6 +261,8 @@ border: solid 1px balck;
     font-size: 11px;
     margin-right: 7%;
     color: white;
-    background: blue;
+    border: solid 1px;
+    border-top-color: darkslategray;
+    background: rgb(59,85,230);
 }
 

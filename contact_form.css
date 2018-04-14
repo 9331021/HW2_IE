@@ -1,4 +1,7 @@
-
+#form_con2{
+    margin-top: 8%;
+    font-size: 15px;
+}
 
 #table10{
  width:64%;
@@ -9,6 +12,7 @@
     margin-right: 18%;
     border: solid 1px;
     border-color: gainsboro;
+        box-shadow: 10px 10px 5px grey;
     
 }
 #row_aval{
@@ -39,6 +43,7 @@
     margin-right: 18%;
     border: solid 1px;
     border-color: gainsboro;
+    
     
 }   
 #td_1{
@@ -74,16 +79,39 @@
      width: 73%;
     height: 26px;
     border: solid 1px;
-    border-color: deepskyblue;
+    border-color:rgb(240,262,267);;
+    background-color:rgb(240,242,247);
     border-radius: 15px;
     direction: ltr;
     margin-right: 50px;
 }
+#w1:hover{
+    background-color:white;
+    color:darkgrey;
+    border-color:rgb(59,85,230);
+}
+#w2:hover{
+    background-color:white;
+    color:darkgrey;
+    border-color:rgb(59,85,230);
+}
+
+#w3:hover{
+    background-color:white;
+    color:darkgrey;
+    border-color:rgb(59,85,230);
+}
+
+
+
+
+
+
 
 #div_1{
  width:60%;
     margin-right:18%;
-    color: dodgerblue;
+    color:rgb(59,85,230);
    
     font-size: 10px;
 }
@@ -96,8 +124,9 @@
     width: 82%;
     
     border: solid 1px;
-    
-    border-color: deepskyblue;
+    border-color:rgb(240,262,267);;
+    background-color:rgb(240,242,247);
+   
     border-radius: 15px;
     direction: ltr;
     margin-right: 7px;
@@ -108,7 +137,7 @@
  width:60%;
     
     margin-right:5%;
-    color: dodgerblue;
+    color:rgb(59,85,230);
    
 }
 
@@ -118,7 +147,8 @@
 #w3{
     
     border: solid 1px;
-    border-color: deepskyblue;
+   border-color:rgb(240,262,267);;
+    background-color:rgb(240,242,247);
     border-radius: 15px;
      width: 82%;
     height: 26px;
@@ -130,7 +160,7 @@
  width:60%;
     margin-right:5%;
    
-    color: dodgerblue;
+   color:rgb(59,85,230);
      font-size: 10px;
 }
 
@@ -139,34 +169,51 @@
     height:140px;
     width:250%;
     border: solid 1px;
-    border-color: deepskyblue;
-    border-radius: 10px;
-    direction: ltr;
-    margin-right: 50px;
-     
-   
+    border-color:rgb(240,262,267);;
+    background-color:rgb(240,242,247);
+    border-radius: 20px;
+    direction:rtl;
+   margin-right: 50px; 
+    text-align: right;
+    vertical-align: top;
+}
+
+
+#w4:hover{
+    border-color:rgb(59,85,230);
+    background-color:white;
+    color:darkgrey;
+    
 }
 
 #div_2{
  width:60%;
    margin-top: 10px;
     margin-right:18%;
-    color: dodgerblue;
+     color:rgb(59,85,230);;
      font-size: 10px;
+    
 }
 #send{
     width: 160px;
     height:55%;
     border: solid 1px;
-    border-color: deepskyblue;
+    border-color:gray;
     border-radius: 10px;
+    background-color: white;
     direction: ltr;
     margin-right:30px;
+    color:rgb(59,85,230);
+    box-shadow: 1px 1px 1px #999;
+}
+
+#send:hover{
+    background-color:rgb(59,85,230);
+    color: white;
 }
 
 #div_3{
  width:80%;
     margin-right:200%;
-    color: dodgerblue;
-}
+   color:rgb(59,85,230); 
 

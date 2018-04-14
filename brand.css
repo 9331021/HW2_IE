@@ -21,8 +21,8 @@ border: solid 1px;
     width:33%;
       height: 250px; 
    margin-top: 0px;
-    background-color:#2467BA;
-    
+    background-color:rgb(59,85,230);
+    box-shadow:  10px 10px 10px #999;
     
     
 }
@@ -44,7 +44,7 @@ border: solid 1px;
     border: solid 1px;
     border-color: #2773CF;
     border-radius: 14px;
-    background-color: #2773CF;
+    background-color: rgb(59,85,230);
    
     margin-left: 210px;
     margin-top: 100px;
@@ -82,26 +82,61 @@ border: solid 1px;
     text-align: center;
     color: white;
     font-size: 15px;
-}
-#text66{
- width:75%;
-      height: 33px;
-    direction: rtl;
-    border: solid 1px;
-    border-color: white;
-    background-color: white;
-    border-radius: 20px;
-    margin-left: 35px;
-    margin-top: 7px;
-}
-
     
 }
-#text6{
-     
 
+.text66{
 
+    direction: rtl;
+  width: 202px;
+    height: 30px;
+   margin-left:10%;
+    margin-top:15px;
+    top:-150%;
+    padding-right: 15%;
+    border-radius: 15px;
 }
+
+.ev{
+    height: 30px;
+    width: 20px;
+   margin-left:15%;
+    margin-top: -35px;
+   border-radius: 15px; 
+   
+    
+}
+
+
+.ev > .fa-envelope{
+  font-size:22px;
+    color:rgb(59,85,230);
+    margin-left: 200px;
+    margin-top: 5px;
+}  
+
+
+.ev3*:hover{
+   color: black;
+    
+}
+
+
+.ev > .fa-envelope:hover{
+    color: black;
+    
+}  
+.text66:hover{
+    color: black;
+}
+.ev3:hover .ev > .fa-envelope{
+    color: black;
+    
+}
+
+
+
+
 
 #text7{
      width:25%;
@@ -109,10 +144,14 @@ border: solid 1px;
     border: solid 1px;
     border-color: white;
      margin-left: 111px;
-    margin-top: 5px;
+    margin-top: 18px;
      border-radius: 20px;
     background-color: black;
     color: white;
   
+    
+}
+#text7:hover{
+    background-color: rgb(34,38,64)
     
 }

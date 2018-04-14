@@ -31,23 +31,29 @@ border: solid 1px;
 
 
 #q44{
-    width: 88%;
-    height: 85%;
-    margin-left: 6.5%;
-margin-top: -1%;
+    width: 94%;
+    height: 82%;
+    margin-left: 3%;
+margin-top: -2%;
     vertical-align: bottom;
     text-align: center;
-    background-image:url(Captureetter.PNG)
+   background-image:url(Captureletter.PNG);
     
     
 }
 
-#qu4{
 
-   
-    border:solid 2px;
+
+
+#q4{
+    text-align: center;
+width: 55%;
+    height: 25px;
+    margin-left:23%;
+margin-top: -45%;
+    border:solid 1px;
     border-color:black;
-    background-color: red;
+background-color: white;
         
 }
 
@@ -80,7 +86,7 @@ margin-top: -1%;
     
      direction:rtl;
     margin-top: -80px;
-    margin-right: 40px;
+    margin-right: 1px;
    
     
 }

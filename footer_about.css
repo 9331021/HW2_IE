@@ -26,7 +26,8 @@
      
     background-color:gainsboro;
     border-color:gainsbor;
-    
+    text-shadow: 5px 5px 5px #999;
+
     padding-left:20px;
     
     
@@ -92,6 +93,7 @@ border: solid 5px;
      
 }
 #foot_41:hover{
+     font-size: 12px;
     color: dodgerblue;
 }
 #foot_42{
@@ -103,6 +105,7 @@ border: solid 5px;
     
 }
 #foot_42:hover{
+      font-size: 12px;
     color: dodgerblue;
 }
 
@@ -115,6 +118,7 @@ border: solid 5px;
     
 }
 #foot_43:hover{
+     font-size: 12px;
     color: dodgerblue;
 }
 #foot_44{
@@ -125,6 +129,7 @@ border: solid 5px;
     
 }
 #foot_44:hover{
+     font-size: 12px;
     color: dodgerblue;
 }
 
@@ -146,8 +151,10 @@ border: solid 5px;
     
 }
 #foot_31:hover{
+  font-size: 12px;
     color: dodgerblue;
 }
+
 #foot_32{
     text-align: center;
     margin-top: 1px;
@@ -159,6 +166,7 @@ border: solid 5px;
     }
 #foot_32:hover{
     color: dodgerblue;
+      font-size: 12px;
 }
 
 
@@ -293,21 +301,21 @@ text-align: center;
        
 
 #fa11:hover{
-    background:blue;
+    background-color:rgb(59,85,230);;;
 }
 
 #fa22:hover{
-    background:blue;
+   background-color:rgb(59,85,230);
 }
 #tw11:hover{
-    background:blue;
+   background-color:rgb(59,85,230);
 }
 #tw22:hover{
-    background:blue;
+   background-color:rgb(59,85,230);
 }
 #G11:hover{
-    background:blue;
+   background-color:rgb(59,85,230);
 }
 #G22:hover{
-    background:blue;
+  background-color:rgb(59,85,230);
 }
